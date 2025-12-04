@@ -1,0 +1,7 @@
+{
+  "name": "BCK Tax Navigator",
+  "description": "A comprehensive tax navigation and calculation assistant featuring data entry, validation, and reporting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
